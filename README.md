@@ -86,9 +86,5 @@ rules:
 1. Updated for R2017b.
 
 
-**v2.2 	May 2017** (R2017a)
-1. Initial release (version number set to match File Exchange)
-   Includes general 3D-1D interface blocks as well as abstract multiphysics
-   blocks connecting hydraulic, electrical, and mechanical effects to
-   multibody systems.  5 basic examples and one CAD workflow example.
+
 
