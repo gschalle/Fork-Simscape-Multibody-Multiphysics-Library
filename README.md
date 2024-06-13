@@ -85,10 +85,6 @@ rules:
 **v2.4 Sept 2017** (R2017b)
 1. Updated for R2017b.
 
-**v2.3 July 2017** (R2017a)
-1. Fixed mistake in library (Interfaces/Translational Simscape Multibody).
-   Changed checkbox from torque to force.
-   Added example sm_ssci_01_slider_crank.slx                            
 
 **v2.2 	May 2017** (R2017a)
 1. Initial release (version number set to match File Exchange)
