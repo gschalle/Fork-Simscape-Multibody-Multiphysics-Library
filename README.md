@@ -79,8 +79,7 @@ rules:
 **v2.5 Sept 2017** (R2017b)
 1. Added block Hydraulic Cylinder SA PS to library which models
    a single-acting hydraulic cylinder using a physical signal interface.  
-2. Added sm_ssci_02_cylinder_sa_pump which models a single 
-   piston pump using the Hydraulic SA PS block.                          
+               
 
 **v2.4 Sept 2017** (R2017b)
 1. Updated for R2017b.
