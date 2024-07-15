@@ -1,5 +1,5 @@
 # **Simscape Multibody Multiphysics Library**
-Copyright 2013-2023 The MathWorks(TM), Inc.
+Copyright 2013-2024 The MathWorks(TM), Inc.
 test edit
 This repository contains example models showing how to extend Simscape Multibody models
 by adding physical effects spanning multiple physical domains modeled in Simscape. 
