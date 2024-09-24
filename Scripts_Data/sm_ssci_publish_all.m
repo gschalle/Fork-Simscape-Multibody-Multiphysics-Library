@@ -1,8 +1,11 @@
+% EDITED file 
 cd(fileparts(which('sm_ssci_01_slider_crank.slx')));
 cd('html')
 publish_all_html
 
 cd(fileparts(which('sm_lift_table_0_import.slx')));
+cd('html');
+cd('foo');
 cd('html');
 publish_all_html
 
